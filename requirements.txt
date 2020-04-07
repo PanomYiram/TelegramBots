@@ -1,7 +1,5 @@
 COVID19Py==0.3.0
 covid==2.2.0
-distro==1.3.0
-distro-info==0.21
 entrypoints==0.3
 idna==2.6
 isort==4.3.21
